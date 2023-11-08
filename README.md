@@ -2,7 +2,7 @@
 
 ## Digital Health SQL Showcase
 
-This repository showcases SQL skills with a focus on digital health databases and data analysis. The SQL scripts provided herein demonstrate proficiency in database design, data manipulation, complex querying, and optimization techniques in the context of health data.
+This repository showcases SQL skills with a focus on digital health databases and data analytics. The SQL scripts provided herein demonstrate proficiency in database design, data manipulation, complex querying, and optimization techniques in the context of health data.
 
 ## Contents
 
